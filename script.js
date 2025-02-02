@@ -1,7 +1,3 @@
-const btn = document.getElementById("my-button");
-btn.addEventListener("click", () => {
-console.log("You clicked me!");
-});
 document.getElementById('btn-under-100').addEventListener('click', function() {
     var counter = document.getElementById('counter-under-100');
     counter.textContent = parseInt(counter.textContent) + 1;
