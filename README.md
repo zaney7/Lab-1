@@ -1,2 +1,4 @@
-# GGR472-wk3-demo
- My demo website for Wk 3
+
+This is my submission for Lab 1. 
+
+The source of the image is from Canada's 100 Best (2022).
